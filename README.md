@@ -9,14 +9,14 @@
 
 ## Libraries Used :
 
-'''
+```
 * Pandas
 * Numpy
 * Plotly
 * Matplotlib
 * Cufflinks
 
-'''
+```
 ## Screenshots
 
 ![screenshot_2](https://user-images.githubusercontent.com/61106875/83967591-ad308400-a8e0-11ea-8571-afa11bb1c002.png)

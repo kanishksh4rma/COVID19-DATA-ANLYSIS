@@ -1,4 +1,4 @@
-# COVID19-DATA-ANLYSIS
+# COVID19-DATA-ANALYSIS
 ### COVID19 data analysis in Jupyter notebook, using  Pandas, plotly, matplotlib, and much more.
 
 ## Screenshots

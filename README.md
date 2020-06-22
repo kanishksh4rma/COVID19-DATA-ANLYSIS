@@ -1,5 +1,4 @@
 # COVID19-DATA-ANALYSIS
-![GitHub language count](https://img.shields.io/github/languages/count/kanishksh4rma/COVID19-DATA-ANLYSIS?color=Green&logo=GitHub&style=flat-square)
 
 ### Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
 
@@ -31,4 +30,4 @@
 
 > Developed by : [kanishk sharma]('https://github.com/kanishksh4rma')
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-love.svg)](https://github.com/kanishksh4rma/COVID19-DATA-ANLYSIS )

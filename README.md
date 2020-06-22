@@ -31,3 +31,4 @@
 
 > Developed by : [kanishk sharma]('https://github.com/kanishksh4rma')
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
